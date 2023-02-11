@@ -1,6 +1,6 @@
 '''
 Struttura esempio programma scritto in Python
-
+E' un file di esempio
 '''
 
 import time
